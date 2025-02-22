@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw39tkJmC_5MFelR9Eivlfq9&ust=1740339135521000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCwmtKC2IsDFQAAAAAdAAAAABAE" alt="Your Name Background" width="100%" />
+  <img src="https://octodex.github.com/nuxtocat/" alt="Your Name Background" width="100%" />
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5);"></div>
 </div>
 
