@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 **Tech Stack**
+## 🏆 **Tech Stack**
 ```json
 {
   "Languages": ["C", "C++", "Java", "Python", "JavaScript", "Node.js"],
@@ -14,19 +14,20 @@
   "Current Focus": "Learning new stuff 🚀"
 }
 🏋️ Fitness & Sports
-74 kg, 5'9"
-2x Volleyball Player 🏐
-Heavy Lifter (Bench Press, Deadlift, Squat)
-Workout enthusiast 💪
+🏆 2x Volleyball Player
+💪 Heavy Lifter (Bench Press, Deadlift, Squat)
+🏋️ 74 kg, 5'9" | Workout enthusiast
 🎵 Music & Anime
 🎶 Love The Weeknd, R&B
 🎥 Favorite Anime & Movies:
-Your Name
-Tunnel to Summer: Exit of Goodbyes
-Howl's Moving Castle
-Naruto, Dragon Ball Z
-📊 GitHub Stats
+🌌 Your Name
+🔥 Tunnel to Summer: Exit of Goodbyes
+🏰 Howl's Moving Castle
+⚡ Naruto, Dragon Ball Z
+🚀 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%" alt="GitHub Streak"/> </p>
+🏆 Trophies & Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&margin-w=15&row=1"/> </p>
 🎮 Anime & Cyberpunk Themed Contributions
 <p align="center"> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=dracula"/> </p>
 📫 Connect with Me
