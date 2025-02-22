@@ -78,8 +78,8 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilthakur7777&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=FFFFFF" alt="Top Languages" />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=adilthakur7777&color=green" alt="Profile Views" />
+  <!-- Profile Views with Visitor Badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=adilthakur7777.adilthakur7777&color=green" alt="Profile Views" />
 </div>
   
 <div align="center">
