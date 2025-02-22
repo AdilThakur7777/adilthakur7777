@@ -2,6 +2,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Banner" width="50%" />
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Banner" width="50%" />
+</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Adil+Thakur!;Coder%2C+Gym+Rat%2C+Anime+Weeb" alt="Animated Typing Text" />
