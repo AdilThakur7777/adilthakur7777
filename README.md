@@ -65,11 +65,14 @@
 ## 📫 **Let’s Connect!**
 
 <div align="center">
-  <a href="https://linkedin.com/in/adilthakur" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.instagram.com/accounts/onetap/?next=%2F&hl=en" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://x.com/Adil_Thakur_8" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adilthakur/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
 
