@@ -3,9 +3,12 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTQ1MjksIm5iZiI6MTc0MDI1NDIyOSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIyVDE5NTcwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMjZhNmVkNGMxMjFhZjlmYTRlNGExOGNmNmI5YTg4MDBlM2ExZDhmZWFkOGEzY2QzYmE4MTFkMDk4OGZlYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.L8xHr0xbv9AN3LEw5NqOrQmGqNLMgZ5F5K5d2KwlYG8" alt="Banner" width="100%" />
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Banner" width="25%" />
 </div>
 
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTQ1MjksIm5iZiI6MTc0MDI1NDIyOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIyVDE5NTcwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2MWViNTVkNDZmMmFkYmYyN2Q3Y2I1MTNjYjZkODI5NzJhNWU4MDNiMjczM2Y0Njk2YmNiMDdiZDBhYTg5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t8XmBXpRvlMQ0r6zyX06-8Ll4UJ86lG2fWKRFqZNJ9w" alt="Banner" width="25%" />
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Adil+Thakur!;Coder%2C+Gym+Rat%2C+Anime+Weeb" alt="Animated Typing Text" />
@@ -24,8 +27,7 @@
 ## 🌟 **About Me**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="400" />
-  <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="100" />
 </div>
 
 - **Coder** 💻 | **Gym Rat** 🏋️‍♂️ | **Anime Weeb** 🎌  
