@@ -1,10 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adilthakur7777&label=Profile%20views&color=0e75b6&style=flat" alt="adilthakur7777" /> </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Adil+Thakur!;Coder%2C+Gym+Rat%2C+Anime+Weeb" alt="Animated Typing Text" />
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adilthakur7777&label=Profile%20views&color=0e75b6&style=flat" alt="adilthakur7777" /> </p>
+
 
 ---
 
