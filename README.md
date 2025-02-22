@@ -61,6 +61,8 @@
 
 ---
 
+
+<!-- GitHub Readme Activity Graph -->
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -69,9 +71,16 @@
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilthakur7777&theme=radical" alt="Streak Stats" />
-</div>
 
----
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adilthakur7777&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilthakur7777&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=adilthakur7777&color=blue" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif" width="100%" />
