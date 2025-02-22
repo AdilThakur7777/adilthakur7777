@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://octodex.github.com/nuxtocat/" alt="Your Name Background" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Your Name Background" width="100%" />
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5);"></div>
 </div>
 
