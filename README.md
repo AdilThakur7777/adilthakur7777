@@ -31,20 +31,7 @@
 ## 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="400" />
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,react,mongodb,git" alt="Tech Logos" />
-</div>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilthakur7777&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilthakur7777&theme=radical" alt="Streak" />
 </div>
 
 ---
@@ -61,6 +48,18 @@
   <a href="https://www.linkedin.com/in/adilthakur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <!-- Contribution Snake -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilthakur7777&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilthakur7777&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
