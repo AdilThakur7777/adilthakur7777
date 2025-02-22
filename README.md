@@ -60,14 +60,11 @@
 </div>
 
 ---
-
-
-<!-- GitHub Readme Activity Graph -->
 ## 📊 **GitHub Analytics**
 
 <div align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilthakur7777&theme=github-green&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilthakur7777&bg_color=0D1117&color=39D353&line=1F6FEB&point=1F6FEB&area=true&hide_border=true" alt="Contribution Graph" />
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilthakur7777&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=1F6FEB&fire=1F6FEB&currStreakLabel=39D353" alt="Streak Stats" />
@@ -78,10 +75,9 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilthakur7777&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=FFFFFF" alt="Top Languages" />
 
-  <!-- Profile Views with Visitor Badge -->
+  <!-- Profile Views -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=adilthakur7777.adilthakur7777&color=green" alt="Profile Views" />
 </div>
-  
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif" width="100%" />
 </div>
