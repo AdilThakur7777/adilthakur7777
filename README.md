@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Adil Thakur</h1>
+<h1 align="center">
+  <span style="color: #FF6F61; animation: blink 1s infinite;">Hi</span> 👋, I'm Adil Thakur
+</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<style>
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilthakur7777&label=Profile%20views&color=0e75b6&style=flat" alt="adilthakur7777" /> </p>
 
