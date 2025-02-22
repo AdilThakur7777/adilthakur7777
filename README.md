@@ -1,30 +1,15 @@
-## Hi there 👋
-
-<!--
-**AdilThakur7777/adilthakur7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Adil+Thakur!;Coder%2C+Gym+Rat%2C+Anime+Weeb;Let's+Build+Something+Epic!%F0%9F%9A%80" alt="Animated Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Adil+Thakur!;Coder%2C+Gym+Rat%2C+Anime+Weeb;Let's+Build+Something+Epic!%F0%9F%9A%80" alt="Animated Typing Text" />
 </p>
 
 ---
 
-<div align="center">
+<div align="center" style="position: relative;">
 
-![Anime Fitness Banner](https://i.imgur.com/3QZQZ9q.gif)  
-*(Add a cool anime fitness banner or GIF here!)*
+![Your Name Banner](https://i.imgur.com/3QZQZ9q.gif)  
+*(Replace this with the "Your Name" sky scene image!)*
+
+<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5);"></div>
 
 </div>
 
@@ -117,4 +102,4 @@ I once coded for 12 hours straight while binge-watching Naruto. No regrets. 😎
 Footer Banner
 (Add a cool anime fitness footer banner or GIF here!)
 
-</div>
+</div> ```
