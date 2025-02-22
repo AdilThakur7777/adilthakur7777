@@ -63,17 +63,15 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilthakur7777&bg_color=0D1117&color=39D353&line=1F6FEB&point=1F6FEB&area=true&hide_border=true" alt="Contribution Graph" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilthakur7777&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=1F6FEB&fire=1F6FEB&currStreakLabel=39D353" alt="Streak Stats" />
+  <!-- GitHub Contribution Snake -->
+  ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adilthakur7777&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=1F6FEB&text_color=FFFFFF" alt="GitHub Stats" />
+  <!-- 3D Contribution Graph -->
+  ![3D Contribution Graph](https://github-readme-3d-contributions.vercel.app/api?username=adilthakur7777&theme=dark&hide_border=true)
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilthakur7777&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=FFFFFF" alt="Top Languages" />
+  <!-- GitHub Contribution Calendar -->
+  ![Contribution Calendar](https://github-readme-calendar.vercel.app/api?username=adilthakur7777&theme=github-green&hide_border=true)
+</div>
 
   <!-- Profile Views -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=adilthakur7777.adilthakur7777&color=green" alt="Profile Views" />
