@@ -18,8 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Your Name Background" width="100%" />
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5);"></div>
+  <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" alt="Cool Banner" width="100%" />
 </div>
 
 ---
@@ -27,7 +26,8 @@
 ## 🌟 **About Me**
 
 <div align="center">
-  <img src="https://i.imgur.com/3QZQZ9q.gif" alt="Your Name GIF" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" alt="Anime GIF 1" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" alt="Anime GIF 2" width="400" />
 </div>
 
 - **Coder** 💻 | **Gym Rat** 🏋️‍♂️ | **Anime Weeb** 🎌  
@@ -39,6 +39,10 @@
 ---
 
 ## 🛠️ **Tech Stack**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" alt="Tech GIF" width="400" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -57,8 +61,8 @@
 ## � **Anime Vibes**
 
 <div align="center">
-  <img src="https://i.imgur.com/3QZQZ9q.gif" alt="Your Name GIF" width="400" />
-  <img src="https://i.imgur.com/3QZQZ9q.gif" alt="Naruto GIF" width="400" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" alt="Anime GIF 3" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Anime GIF 4" width="400" />
 </div>
 
 ---
@@ -89,5 +93,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/3QZQZ9q.gif" alt="Footer Banner" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/245400757-7c9b8308-ecee-46c0-a442-6d779cfea10f.gif" alt="Footer Banner" width="100%" />
 </p>
